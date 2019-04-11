@@ -1,6 +1,9 @@
 # Discover:Hackathon
 Information on Discover:Hackathon at Claremont
 
+## Communication
+We encourage you to use our Slack channel: https://claremont-hackathon.slack.com. You should have gotten an invite in your mailbox previously, otherwise contact oskar.lind@claremont.se.
+
 ## API:s
 
 ### SEB
