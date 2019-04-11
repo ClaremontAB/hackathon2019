@@ -6,6 +6,8 @@ We encourage you to use our Slack channel: https://claremont-hackathon.slack.com
 
 ## API:s
 
+### Handelsbanken
+
 ### SEB
 
 ### Swedavia
@@ -26,3 +28,10 @@ and https://www.trafiklab.se/hur-gor-jag
 No account needed. Access to weather forecasts for a specific geographical location.
 http://opendata.smhi.se/apidocs/metfcst/index.html
 http://opendata.smhi.se/apidocs/metfcst/demo_point.html
+
+### Öppna data
+https://oppnadata.se/
+Public sector data. 
+
+### Other sources
+- apikatalogen.se
