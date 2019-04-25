@@ -9,6 +9,11 @@ We encourage you to use our Slack channel: https://claremont-hackathon.slack.com
 ### Handelsbanken
 
 ### SEB
+https://developer.sebgroup.com
+1. Sign up for a developer account on https://developer.sebgroup.com/user/register
+2. Read "Getting started" at https://developer.sebgroup.com/getting-started
+
+SEB uses oauth2 flow for authentication. Create a new app here: https://developer.sebgroup.com/application/new
 
 ### Swedavia
 https://apideveloper.swedavia.se
