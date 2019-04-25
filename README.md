@@ -7,7 +7,7 @@ We encourage you to use our Slack channel: https://claremont-hackathon.slack.com
 ## API:s
 
 ### Handelsbanken
-Erik Forsberg (Claremont) created an awesome guide for Handelsbanken which is available [here](samples/handelsbanken/README.md).
+Erik Forsberg (Claremont) created an awesome guide for Handelsbanken which is available [here](samples/handelsbanken).
 
 ### SEB
 https://developer.sebgroup.com
