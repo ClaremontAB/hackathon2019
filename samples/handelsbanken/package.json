@@ -1,0 +1,17 @@
+{
+  "name": "claremont-hackathon",
+  "version": "0.0.1",
+  "description": "Example API usage for the Claremont Hackathon",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Erik Forsberg",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "express": "^4.16.4",
+    "request": "^2.88.0",
+    "uuid": "^3.3.2"
+  }
+}
