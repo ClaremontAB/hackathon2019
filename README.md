@@ -11,7 +11,7 @@ Read specifically the guide on https://developers.google.com/actions/extending-t
 
 A really simple tutorial for developing and testing your first Google Home app can be found here: https://www.youtube.com/watch?v=_oKhSWnGCFM
 
-## Key terms regarding Actions on Google 
+### Key terms regarding Actions on Google 
 - Intent: A goal or task that users want to do, such as ordering coffee or finding a piece of music. In Actions on Google, this is represented as a unique identifier and the corresponding user utterances that can trigger the intent.
 - Action: An interaction you build for the Assistant that supports a specific intent and has a corresponding fulfillment that processes the intent.
 - Fulfillment: A service, app, feed, conversation, or other logic that handles an intent and carries out the corresponding Action.
