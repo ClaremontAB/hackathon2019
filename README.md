@@ -7,6 +7,7 @@ We encourage you to use our Slack channel: https://claremont-hackathon.slack.com
 ## API:s
 
 ### Handelsbanken
+Erik Forsberg (Claremont) created an awesome guide for Handelsbanken which is available [here](samples/handelsbanken).
 https://developer.handelsbanken.com/getting-started
 1. Sign up for a developer account at https://developer.handelsbanken.com/user/register
 2. Register you app and get a clientid at https://developer.handelsbanken.com/application
@@ -23,6 +24,11 @@ https://developer.handelsbanken.com/getting-started
 Example postman collection for Handelsbanken (just add you clientid) [Postman collection](shb-psd2-postman_collection.json)
 
 ### SEB
+https://developer.sebgroup.com
+1. Sign up for a developer account on https://developer.sebgroup.com/user/register
+2. Read "Getting started" at https://developer.sebgroup.com/getting-started
+
+SEB uses oauth2 flow for authentication. Create a new app here: https://developer.sebgroup.com/application/new
 
 ### Swedavia
 https://apideveloper.swedavia.se
