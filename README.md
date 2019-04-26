@@ -7,7 +7,9 @@ We encourage you to use our Slack channel: https://claremont-hackathon.slack.com
 ## Google Home Documentation
 This is the official docs site for Google Home development: https://developers.google.com/actions/
 
-A really simple guide to developing and testing your first Google Home app can be found here: https://www.youtube.com/watch?v=_oKhSWnGCFM
+Read specifically the guide on https://developers.google.com/actions/extending-the-assistant
+
+A really simple tutorial for developing and testing your first Google Home app can be found here: https://www.youtube.com/watch?v=_oKhSWnGCFM
 
 ## Tools
 Create mock API:s: https://www.mockable.io/, https://www.mocky.io/, https://mockoon.com/
