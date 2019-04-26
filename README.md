@@ -7,6 +7,10 @@ We encourage you to use our Slack channel: https://claremont-hackathon.slack.com
 ## Google Home Documentation
 This is the official docs site for Google Home development: https://developers.google.com/actions/
 
+## Tools
+Create mock API:s: https://www.mockable.io/, https://www.mocky.io/, https://mockoon.com/
+Test API calls locally or remote: https://www.getpostman.com/
+
 ## API:s
 
 ### Handelsbanken
