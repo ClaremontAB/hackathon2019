@@ -55,3 +55,7 @@ Public sector data.
 
 ### Other sources
 - apikatalogen.se
+
+## Other services
+### Azure Cognitive Services
+https://azure.microsoft.com/sv-se/services/cognitive-services/
