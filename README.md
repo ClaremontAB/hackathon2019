@@ -83,4 +83,4 @@ https://azure.microsoft.com/sv-se/services/cognitive-services/
 
 https://www.youtube.com/watch?v=f4XBxNuEifQ
 
-
+Sample code by Rickard Svensson (Claremont) [here](samples/ComputerVision)
