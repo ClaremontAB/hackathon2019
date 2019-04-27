@@ -81,8 +81,6 @@ Public sector data.
 ### Azure Cognitive Services
 https://azure.microsoft.com/sv-se/services/cognitive-services/
 
-AnalysisService kan vara ett bra ställe att börja titta på.
-https://claremontnetsolutions.visualstudio.com/_git/ComputerVision?path=%2FComputerVision%2FServices%2FAnalysisService.cs&version=GBmaster
-
+https://www.youtube.com/watch?v=f4XBxNuEifQ
 
 
