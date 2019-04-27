@@ -40,12 +40,15 @@ https://developer.handelsbanken.com/getting-started
 
 Example postman collection for Handelsbanken (just add you clientid) [Postman collection](shb-psd2-postman_collection.json)
 
+
 ### SEB
 https://developer.sebgroup.com
 1. Sign up for a developer account on https://developer.sebgroup.com/user/register
 2. Read "Getting started" at https://developer.sebgroup.com/getting-started
 
 SEB uses oauth2 flow for authentication. Create a new app here: https://developer.sebgroup.com/application/new
+
+
 
 ### Swedavia
 https://apideveloper.swedavia.se
@@ -74,5 +77,12 @@ Public sector data.
 - apikatalogen.se
 
 ## Other services
+
 ### Azure Cognitive Services
 https://azure.microsoft.com/sv-se/services/cognitive-services/
+
+AnalysisService kan vara ett bra ställe att börja titta på.
+https://claremontnetsolutions.visualstudio.com/_git/ComputerVision?path=%2FComputerVision%2FServices%2FAnalysisService.cs&version=GBmaster
+
+
+
